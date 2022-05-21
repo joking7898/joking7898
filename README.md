@@ -1,5 +1,5 @@
 ## ComplieError : Just a little Programmer
-데이터 사이언스 를 공부하고 싶은.. 학생.
+- DataMarketing Korea BackEnd Developer (2021.05 ~ )
 ## Stack
 - C / C++
 - Java
