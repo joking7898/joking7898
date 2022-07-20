@@ -4,8 +4,13 @@
 - C / C++
 - Java
 - Python
-- Node.js
-- Mysql / Oracle
+  - Django / DjangoFramework
+- Node.js 
+### Database
+- Mysql / Oracle / Postgresql
+- neo4j
 
 ### 🌱 I’m currently learning ...
 - Java Spring
+- Apache Kafka
+- Elastic Search
