@@ -1,18 +1,17 @@
 ## ComplieError : Just a little Programmer
 - DataMarketing Korea BackEnd Developer (2021.05 ~ 2022.08)
-- EstAID SearchPlatform Part - data pipeline ( 2022.08 ~ now )
+- EstAID SearchPlatform Part - search data pipeline ( 2022.08 ~ 2025.08 )
+- AscentAI Consulting Team 2 - Marketing Data Engineer ( 2025.12 ~ )
 ## Stack
-- C / C++
 - Java
-  - Spring 
+  - Spring / SpringBoot / Spring Webflux
 - Python
   - Django / DjangoFramework
-- Node.js 
+
 ### Database
 - Mysql / Oracle / Postgresql
-- neo4j
 
 ### 🌱 I’m currently learning ...
-- Java Spring
-- Apache Kafka
+- RAG / Langchain
+- Apache Kafka / Spark
 - Elastic Search
